@@ -1,4 +1,4 @@
-#Citizen Care Pharmacy: Unlocking the Potential of Data-Driven Solutions for B2C Success
+**Citizen Care Pharmacy: Unlocking the Potential of Data-Driven Solutions for B2C Success**
 
 This project focuses on the operational and financial analysis of Citizen Care Pharmacy, a retail pharmacy located in Sadar, Uttar Pradesh. Using sales and expense data from December 2024 to February 2025, the project identifies revenue trends, category-wise performance, and cost patterns. Key insights were derived through descriptive statistics and data visualization techniques, including clustered column charts, pie charts, line marker charts, and bar charts.
 
